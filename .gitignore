@@ -1,0 +1,24 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Archives and binaries (release these via GitHub Releases instead)
+*.zip
+*.7z
+*.rar
+
+# Third-party 3D assets and large binaries (add only with the author's permission)
+*.edm
+*.dds
+*.png
+*.ogg
+*.wav
+
+# DCS logs and temp
+*.log
+*.tmp
