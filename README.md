@@ -1,4 +1,4 @@
-﻿# PTO '43 Modpack
+﻿# [PTO'43] Modpack
 
 Open, non-commercial community modpack for **DCS World** recreating the Pacific Theater of Operations, 1943.
 Created by Team PTO '43 (Hawkeye60 & Saelind76).
@@ -44,5 +44,6 @@ Mod configuration, Lua flight models, damage tuning, animations and integration 
 Third-party 3D assets (Thomas Beerens, Markindel, Helijah and others) remain the property of their respective authors; full credits in [LICENSE.md](LICENSE.md).
 
 Unofficial community modification, not affiliated with or endorsed by Eagle Dynamics SA. Supplied "AS-IS" without warranty.
+
 
 
