@@ -16,10 +16,10 @@ Created by Team PTO '43 (Hawkeye60 & Saelind76).
 - Grumman TBF-1 Avenger
 - North American B-25C/D Mitchell
 - Consolidated PBY-5 Catalina
-- Mitsubishi A6M3 Model 32 Hamp
-- Nakajima Ki-43-II Hayabusa (Oscar)
-- Kawasaki Ki-61-I Hien (Tony)
-- Nakajima Ki-44 Shoki (Tojo)
+- [Mitsubishi A6M3 Model 32 Hamp](docs/JAP/Aircraft/A6M3_Zero_Hamp/info.md)
+- [Nakajima Ki-43-II Hayabusa (Oscar)](docs/JAP/Aircraft/Ki-43_Hayabusa/info.md)
+- [Kawasaki Ki-61-I Hien (Tony)](docs/JAP/Aircraft/Ki-61_Hien/info.md)
+- [Nakajima Ki-44 Shoki (Tojo)](docs/JAP/Aircraft/Ki-44_Shoki/info.md)
 - Nakajima B5N2 Kate (in development)
 - Aichi D3A2 Val
 - Mitsubishi G4M2 Betty
