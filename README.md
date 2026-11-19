@@ -1,4 +1,4 @@
-﻿# [PTO'43] Modpack
+# [PTO'43] Modpack
 
 Open, non-commercial community modpack for **DCS World** recreating the Pacific Theater of Operations, 1943.
 Created by Team PTO '43 (Hawkeye60 & Saelind76).
@@ -16,7 +16,7 @@ Created by Team PTO '43 (Hawkeye60 & Saelind76).
 - Grumman TBF-1 Avenger
 - North American B-25C/D Mitchell
 - Consolidated PBY-5 Catalina
-- Mitsubishi A6M3 Model 33 Zeke
+- Mitsubishi A6M3 Model 32 Hamp
 - Nakajima Ki-43-II Hayabusa (Oscar)
 - Kawasaki Ki-61-I Hien (Tony)
 - Nakajima Ki-44 Shoki (Tojo)
