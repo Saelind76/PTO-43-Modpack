@@ -1,0 +1,9 @@
+model = {
+	lods = {	
+	{"uss_independence.edm",50000.000};
+		
+
+	};
+	collision_shell = "uss_independence_collision.edm";
+
+}

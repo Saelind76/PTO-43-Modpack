@@ -1,0 +1,6 @@
+model={
+	lods={
+		{"Ki45_KAIc.edm",20000.0};
+	};
+	collision_shell="Ki45_KAIc_collision.edm";
+}

@@ -1,0 +1,6 @@
+model={
+	lods={
+		{"Zuikaku_CV.edm",25000.000000};
+	};
+	collision_shell="Zuikaku_CV_Collision.edm";
+}

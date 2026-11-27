@@ -1,0 +1,11 @@
+
+model = {
+	lods = {
+		{"uss_cleveland_class.edm", 1000000.000000};
+	};
+
+        collision_shell = "uss_cleveland_class_collision.edm";
+
+}
+
+

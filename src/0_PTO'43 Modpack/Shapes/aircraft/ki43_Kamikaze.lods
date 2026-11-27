@@ -1,0 +1,6 @@
+model = {
+    lods = {
+        {"ki43_kamikaze.edm", 15000.0};
+    };
+    collision_shell = "ki-43_collision.edm";
+}

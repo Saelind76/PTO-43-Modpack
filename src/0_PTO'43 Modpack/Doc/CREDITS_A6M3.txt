@@ -1,0 +1,14 @@
+[PTO'43] Mitsubishi A6M3 Model 32 "Hamp" - credits
+
+3D model
+  This aircraft is derived from the model "A6m3" by manilov.ap
+  https://skfb.ly/YKWP
+  Licensed under Creative Commons Attribution 4.0 (CC BY 4.0)
+  http://creativecommons.org/licenses/by/4.0/
+
+  Changes from the original: reworked and split for DCS (EDM export), animated control
+  surfaces, flaps, gear and gear doors, wheel spin, procedural propeller, pilot, UV and
+  material fixes, new liveries.
+
+DCS integration and liveries
+  Team PTO '43

@@ -1,0 +1,9 @@
+model={
+	lods={
+		{"g4_m2.edm",100000.0};
+	};
+	collision_shell="g4_m2_collision.edm";
+}
+
+
+

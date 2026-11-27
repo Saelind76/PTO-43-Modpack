@@ -1,0 +1,6 @@
+model = {
+	lods = {
+		{"IJN_Kumano.edm", 15000.000000};
+	};
+	collision_shell = "IJN_Kumano_collision.edm";
+}

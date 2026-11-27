@@ -1,0 +1,6 @@
+model={
+	lods={
+		{"F6F5.edm",50000.0};
+	};
+	collision_shell="f6f_hellcat_collision.edm";
+}

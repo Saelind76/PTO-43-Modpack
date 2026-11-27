@@ -1,0 +1,185 @@
+WWII US z F6F5 Hellcat (HawkEye)
+
+F6F5
+
+F6F Hellcat
+
+Role 	        Carrier-based fighter aircraft
+National origin United States
+Manufacturer 	Grumman
+First flight 	26 June 1942
+Introduction 	1943
+Retired 	1960 Uruguayan Navy[2]
+Primary users 	United States Navy
+                United States Marine Corps
+                Royal Navy
+                French Navy
+Produced 	1942–45
+Number built 	12,275 
+
+
+Specifications (F6F-5 Hellcat)
+
+
+Data from WWII Aircraft Performance[104]Jane’s Fighting Aircraft of World War II[105]Standard Aircraft Characteristics[106]
+
+General characteristics
+
+    Crew: 1
+    Length: 33 ft 7 in (10.24 m)
+    Wingspan: 42 ft 10 in (13.06 m)
+    Height: 13 ft 1 in (3.99 m)
+    Wing area: 334 sq ft (31.0 m2)
+    Aspect ratio: 5.5
+    Airfoil: root: NACA 23015.6; tip: NACA 23009[107]
+    Empty weight: 9,238 lb (4,190 kg)
+    Gross weight: 12,598 lb (5,714 kg)
+    Max takeoff weight: 15,415 lb (6,992 kg)
+    Fuel capacity: 250 US gal (208 imp gal; 946 l) internal; up to 3 × 150 US gal (125 imp gal; 568 l) external drop tanks
+    Zero-lift drag coefficient: 0.0211
+    Drag area: 7.05 sq ft (0.655 m2)
+    Powerplant: 1 × Pratt & Whitney R-2800-10W Double Wasp 18-cylinder air-cooled radial piston engine, 2,200 hp (1,600 kW) with a two-speed two-stage supercharger and water injection
+    Propellers: 3-bladed Hamilton Standard, 13 ft 1 in (3.99 m) diameter constant-speed propeller
+
+Performance
+
+    Maximum speed: 391 mph (629 km/h, 340 kn)
+    Stall speed: 84 mph (135 km/h, 73 kn)
+    Combat range: 945 mi (1,521 km, 821 nmi)
+    Ferry range: 1,530 mi (2,460 km, 1,330 nmi)
+    Service ceiling: 37,300 ft (11,400 m)
+    Rate of climb: 2,600 ft/min (13 m/s)
+    Time to altitude: 20,000 ft (6,096 m) in 7 minutes 42 seconds
+    Lift-to-drag: 12.2
+    Wing loading: 37.7 lb/sq ft (184 kg/m2)
+    Power/mass: 0.16 hp/lb (0.26 kW/kg)
+    Take-off run: 799 ft (244 m)
+
+Armament
+
+    Guns:
+        6× 0.50 in (12.7 mm) M2 Browning machine guns, with 400 rounds per gun, (All F6F-3, and most F6F-5) or
+        2 × 0.79 in (20 mm) AN/M2 cannon, with 225 rounds per gun and 4 × 0.50 in (12.7 mm) Browning machine guns with 400 rounds per gun
+    Rockets:
+        6 × 5 in (127 mm) HVARs or
+        2 × 11.75 in (298 mm) Tiny Tim unguided rockets
+    Bombs: up to 4,000 lb (1,800 kg) full load, including:
+        Bombs or Torpedoes: (Fuselage mounted on centerline rack)
+            1 × 2,000 lb (910 kg) bomb or
+            1 × Mk.13-3 torpedo;
+        Underwing bombs: (F6F-5 had two additional weapons racks either side of fuselage on wing center-section)
+            2 × 1,000 lb (450 kg) or
+            4 × 500 lb (230 kg)
+            8 × 250 lb (110 kg)
+
+
+The Grumman F6F Hellcat is an American carrier-based fighter aircraft of World War II. Designed to replace the earlier F4F Wildcat and to counter the Japanese Mitsubishi A6M Zero, it was the United States Navy's dominant fighter in the second half of the Pacific War, outdueling the faster Vought F4U Corsair, which had problems with carrier landings.
+
+Powered by a 2,000 hp (1,500 kW) Pratt & Whitney R-2800 Double Wasp, the same powerplant used for both the Corsair and the United States Army Air Forces (USAAF) Republic P-47 Thunderbolt fighters, the F6F was an entirely new design, but it still resembled the Wildcat in many ways.[3] Some military observers tagged the Hellcat as the "Wildcat's big brother".[4]
+
+The F6F made its combat debut in September 1943, and was best known for its role as a rugged, well-designed carrier fighter, which was able to outperform the A6M Zero and help secure air superiority over the Pacific theater. A total of 12,275 were built in just over two years.[5]
+
+Hellcats were credited with destroying a total of 5,223 enemy aircraft while in service with the U.S. Navy, U.S. Marine Corps, and Royal Navy Fleet Air Arm.[6][Note 2] This was more than any other Allied naval aircraft.[8] Postwar, the Hellcat was phased out of front-line service, but remained in service as late as 1954 as a night fighter.[contradi
+
+
+Operators
+
+ France
+
+    French Navy
+    French Air Force
+
+ United Kingdom
+
+    Royal Navy Fleet Air Arm
+
+        Training units, and non-operational units
+
+            706 Naval Air Squadron Crew Pool & Refresher Flying Training School.
+            709 Naval Air Squadron Ground Attack School.
+            778 Naval Air Squadron Service Trials Unit (STU)
+            891 Naval Air Squadron not operational at war's end.
+            1847 Naval Air Squadron merged into 1840, not operational.
+
+        East Indies units
+
+            800 Naval Air Squadron HMS Emperor, first operational unit
+            804 Naval Air Squadron HMS Ameer, HMS Emperor, HMS Shah, HMS Ravager
+            808 Naval Air Squadron HMS Khedive
+            888 Naval Air Squadron detachments only
+            896 Naval Air Squadron HMS Empress
+            898 Naval Air Squadron HMS Attacker/HMS Pursuer
+
+        Atlantic & Mediterranean units
+
+            881 Naval Air Squadron HMS Pursuer
+            892 Naval Air Squadron HMS Premier
+            1832 Naval Air Squadron HMS Indomitable
+
+        Pacific units
+
+            885 Naval Air Squadron HMS Ruler
+            1839 Naval Air Squadron NAS Eglington/HMS Indomitable
+            1840 Naval Air Squadron HMS Speaker
+            1844 Naval Air Squadron HMS Indomitable
+
+
+
+ United States
+
+    United States Navy
+    United States Marine Corps
+
+ Uruguay
+
+    Uruguayan Navy
+
+
+Operational history
+
+
+U.S. Navy and Marines
+
+The U.S. Navy much preferred the more docile flight qualities of the F6F compared with the Vought F4U Corsair, despite the superior speed of the Corsair. This preference was especially noted during carrier landings, a critical success requirement for the Navy, in which the Corsair was fundamentally flawed in comparison.[citation needed] The Corsair was thus released by the Navy to the Marine Corps, which without the need to worry about carrier landings, used the Corsair to immense effect in land-based sorties. The Hellcat remained the standard USN carrier-borne fighter until the F4U series was finally cleared for U.S. carrier operations in late 1944 (the carrier landing issues had by now been tackled largely due to use of Corsair by the Royal Navy Fleet Air Arm which started in 1943).[38] In addition to its good flight qualities, the Hellcat was easy to maintain and had an airframe tough enough to withstand the rigors of routine carrier operations.[39] Like the Wildcat, the Hellcat was designed for ease of manufacture and ability to withstand significant damage.
+VF-82 Grumman F6F-5 ready for launch from USS Bennington off Okinawa in May 1945: Most of the F6F-5s built were painted overall glossy sea blue.
+
+The Hellcat first saw action against the Japanese on 1 September 1943, when fighters off USS Independence shot down a Kawanishi H8K "Emily" flying boat.[40] Soon after, on 23 and 24 November, Hellcats engaged Japanese aircraft over Tarawa, shooting down a claimed 30 Mitsubishi Zeros for the loss of one F6F.[40] Over Rabaul, New Britain, on 11 November 1943, Hellcats and F4U Corsairs were engaged in day-long fights with many Japanese aircraft including A6M Zeros, claiming nearly 50 aircraft.[40]
+
+When trials were flown against a captured A6M5 model Zero, they showed that the Hellcat was faster at all altitudes. The F6F out-climbed the Zero marginally above 14,000 ft (4,300 m) and rolled faster at speeds above 235 mph (378 km/h). The Japanese fighter could out-turn its American opponent with ease at low speed and enjoyed a slightly better rate of climb below 14,000 ft (4,300 m). The trials report concluded:
+
+    Do not dogfight with a Zero 52. Do not try to follow a loop or half-roll with a pull-through. When attacking, use your superior power and high speed performance to engage at the most favorable moment. To evade a Zero 52 on your tail, roll and dive away into a high speed turn.[41]
+
+Hellcats were the major U.S. Navy fighter type involved in the Battle of the Philippine Sea, where so many Japanese aircraft were shot down that Navy aircrews nicknamed the battle the "Great Marianas Turkey Shoot". The F6F accounted for 75% of all aerial victories recorded by the U.S. Navy in the Pacific.[42] Radar-equipped Hellcat night fighter squadrons appeared in early 1944.
+
+A formidable opponent for the Hellcat was the Kawanishi N1K, but it was produced too late and in insufficient numbers to affect the outcome of the war.[43]
+Sortie, kill, and loss figures
+
+U.S. Navy and Marine F6F pilots flew 66,530 combat sorties and claimed 5,163 kills (56% of all U.S. Navy/Marine air victories of the war) at a recorded cost of 270 Hellcats in aerial combat (an overall kill-to-loss ratio of 19:1 based on claimed kills).[44] Claimed victories were often highly exaggerated during the war. Even so, the aircraft performed well against the best Japanese opponents with a claimed 13:1 kill ratio against the A6M Zero, 9.5:1 against the Nakajima Ki-84, and 3.7:1 against the Mitsubishi J2M during the last year of the war.[45] The F6F became the prime ace-maker aircraft in the American inventory, with 305 Hellcat aces. The U.S. successes were not just attributed to superior aircraft – from 1942 onwards, they faced increasingly inexperienced Japanese aviators and had the advantage of increasing numerical superiority.[Note 7] In the ground-attack role, Hellcats dropped 6,503 tons (5,899 tonnes) of bombs.[44]
+
+The U.S. Navy's all-time leading ace, Captain David McCampbell, scored all his 34 victories in the Hellcat. He once described the F6F as "... an outstanding fighter plane. It performed well, was easy to fly, and was a stable gun platform, but what I really remember most was that it was rugged and easy to maintain."[47]
+
+During the course of World War II, 2,462 F6F Hellcats were lost to all causes – 270 in aerial combat, 553 to antiaircraft ground and shipboard fire, and 341 due to operational causes. Of the total figure, 1,298 were destroyed in training and ferry operations, normally outside of the combat zones.[48]
+
+Hamilton McWhorter III was a United States Navy aviator and a flying ace of World War II, credited with shooting down twelve Japanese aircraft. He was the first United States Navy aviator to become an ace while flying the Grumman F6F Hellcat and the first Navy carrier pilot to achieve double ace status.[49]
+
+
+British use
+A section of Fleet Air Arm Hellcat F Mk.Is of 1840 Squadron in June 1944
+
+The British Fleet Air Arm (FAA) received 1,263 F6Fs under the Lend-Lease Act; initially it was known as the Grumman Gannet Mark I. The name Hellcat replaced it in early 1943 for the sake of simplicity, the Royal Navy at that time adopting the use of the existing American naval names for all the U.S.-made aircraft supplied to it, with the F6F-3 being designated Hellcat F Mk.I, the F6F-5, the Hellcat F Mk.II and the F6F-5N, the Hellcat NF Mk.II.[Note 8] They saw action off Norway, in the Mediterranean, and in the Far East. Several were fitted with photographic reconnaissance equipment similar to the F6F-5P, receiving the designation Hellcat FR Mk.II.[50] The Pacific War being primarily a naval war, the FAA Hellcats primarily faced land-based aircraft in the European and Mediterranean theaters,[51][52] and as a consequence experienced far fewer opportunities for air-to-air combat than their USN/Marines counterparts, nevertheless, they claimed a total of 52 enemy aircraft kills during 18 aerial combats from May 1944 to July 1945. 1844 Naval Air Squadron, on board HMS Indomitable of the British Pacific Fleet was the highest scoring unit, with 32.5 kills.[53]
+
+FAA Hellcats, as with other Lend-Lease aircraft, were rapidly replaced by British aircraft after the end of the war, with only two of the 12 squadrons equipped with the Hellcat at VJ-Day still retaining Hellcats by the end of 1945.[54] These two squadrons were disbanded in 1946.[54]
+Postwar service: A bright orange F6F-3K target drone
+
+
+Postwar use
+
+After the war, the Hellcat was succeeded by the F8F Bearcat, which was smaller, more powerful (powered by uprated Double Wasp radials) and more maneuverable, but entered service too late to see combat in World War II.[55]
+
+The Hellcat was used for second-line USN duties, including training, Naval Reserve squadrons, and a handful were converted to target drones.[56] In late 1952, Guided Missile Unit 90 used F6F-5K drones, each carrying a 2,000 lb (910 kg) bomb, to attack bridges in Korea; flying from USS Boxer, radio controlled from an escorting AD Skyraider.[57]
+
+The French Navy (Aéronavale) was equipped with F6F-5 Hellcats and used them in combat in Indochina. These were painted in Gloss Sea Blue, similar to post-World War II US Navy aircraft until about 1955, but had a modified French roundel with an image of an anchor.[58] The French Air Force also used the Hellcat in Indochina from 1950 to 1952. The plane equipped four squadrons (including the Normandie-Niemen squadron of WWII fame) before these units transitionned to the F8F Bearcat.[59]
+
+The Uruguayan Navy also used them until the early 1960s.[60]
+
+The F6F-5 subtype also gained fame as the first aircraft used by the U.S. Navy's Blue Angels official flight demonstration team at its formation in 1946.[61] 

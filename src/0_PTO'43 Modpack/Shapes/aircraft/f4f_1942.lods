@@ -1,0 +1,6 @@
+model={
+	lods={
+		{"f4f_1942.edm",100000.0};
+	};
+	collision_shell="f4f_collision.edm";
+}
