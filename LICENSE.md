@@ -41,6 +41,8 @@ Original 3D Model Creators & Contributors:
 - Markindel: 3D Aviation & Naval Assets (CC BY / Freeware)
 - Helijah: 3D Aircraft Models (CC BY / CC BY-SA)
 - Groovie: Liveries, weathering, and texture passes
+- manilov.ap: A6M3 base model "A6m3", https://skfb.ly/YKWP (CC BY 4.0,
+  http://creativecommons.org/licenses/by/4.0/) - reworked for DCS
 - Mike "pikey" PTO modpack co-creator, scripting, collision  models, etc...
 - Additional community liveries and sound assets credited to their respective owners.
 

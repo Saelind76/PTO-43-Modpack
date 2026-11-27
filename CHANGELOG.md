@@ -1,6 +1,11 @@
 # Changelog — [PTO'43] Modpack
 
 All notable changes to the modpack. Newest version first.
+Hotfixes are cumulative: install **1.0 BETA** plus the **latest** hotfix.
+
+## [Unreleased]
+
+_Nothing yet._
 
 ## [1.0.1-beta] — 2026-11-26
 
@@ -48,4 +53,10 @@ Hotfix on top of **1.0 BETA**. Install 1.0 BETA first, then extract the hotfix o
 
 ## [1.0-beta] — 2026-11-26
 
-First public beta: 10 aircraft, 12 ships and the CAF-SANDBOX quick-start mission.
+First public beta. [Release page](https://github.com/Saelind76/PTO-43-Modpack/releases/tag/v1.0-beta)
+
+### Added
+- **Aircraft (10):** A6M3 Model 32, Ki-43-II, Ki-61, Ki-45 KAIc, B6N, G4M2, F4F, F6F, SBD, P-39N.
+- **Ships (12):** Zuikaku, Zuiho, Haruna, Kumano, Akizuki, Type C cargo; Independence, Baltimore, Cleveland class (incl. Montpelier), Cassin Young, T2 Cimarron, Dale tanker.
+- Shared weapons, shells, fuze belts and sensors core.
+- CAF-Sandbox quick-start mission.

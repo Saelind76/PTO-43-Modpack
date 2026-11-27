@@ -3,65 +3,39 @@
 Open, non-commercial community modpack for **DCS World** recreating the Pacific Theater of Operations, 1943.
 Created by Team PTO '43 (Hawkeye60 & Saelind76).
 
-## Contents
+## Download
+
+1. **[1.0 BETA](https://github.com/Saelind76/PTO-43-Modpack/releases/tag/v1.0-beta)** — full mod
+2. **[Latest hotfix](https://github.com/Saelind76/PTO-43-Modpack/releases)** — currently [1.0.1](https://github.com/Saelind76/PTO-43-Modpack/releases/tag/v1.0.1-beta)
+
+Install instructions are on the 1.0 release page. Changes: [CHANGELOG.md](CHANGELOG.md). Bugs and feedback: [Issues](https://github.com/Saelind76/PTO-43-Modpack/issues).
+
+## In the current beta
 
 ### Aircraft
-
-#### United States (USN / USAAF)
-- Bell P-39N Airacobra
-- Curtiss P-40M Warhawk
-- Grumman F4F-4 Wildcat
-- Grumman F6F-3 Hellcat
-- Vought F4U-1
-- Lockheed P-38G Lightning II
-- Douglas SBD Dauntless
-- Grumman TBF-1 Avenger
-- North American B-25C/D Mitchell
-- Consolidated PBY-5 Catalina
-
-#### Japan (IJN / IJA)
-- [Mitsubishi A6M3 Model 32 Hamp](docs/JAP/Aircraft/A6M3_Zero_Hamp/info.md)
-- [Nakajima Ki-43-II Hayabusa (Oscar)](docs/JAP/Aircraft/Ki-43_Hayabusa/info.md)
-- [Kawasaki Ki-61-I Hien (Tony)](docs/JAP/Aircraft/Ki-61_Hien/info.md)
-- [Nakajima Ki-44 Shoki (Tojo)](docs/JAP/Aircraft/Ki-44_Shoki/info.md)
-- Nakajima B5N2 Kate (in development)
-- Aichi D3A2 Val
-- Mitsubishi G4M2 Betty
-- Mitsubishi Ki-21-II Sally
-- Nakajima B6N1 Jill
-- Yokosuka D4Y Judy
-- Kawanishi H8K2 Emily
-- Project Ki-45 Toryu
+- **United States:** Grumman F4F Wildcat, Grumman F6F Hellcat, Douglas SBD Dauntless, Bell P-39N Airacobra
+- **Japan:** [Mitsubishi A6M3 Model 32 Hamp](docs/JAP/Aircraft/A6M3_Zero_Hamp/info.md), [Nakajima Ki-43-II Hayabusa (Oscar)](docs/JAP/Aircraft/Ki-43_Hayabusa/info.md), [Kawasaki Ki-61 Hien (Tony)](docs/JAP/Aircraft/Ki-61_Hien/info.md), Kawasaki Ki-45 KAIc Toryu, Nakajima B6N Jill, Mitsubishi G4M2 Betty
 
 ### Naval
+- **United States:** CVL Independence, CA Baltimore, CL Cleveland class (incl. Montpelier), DD Cassin Young, T2 Cimarron oiler, Dale tanker
+- **Japan:** CV Zuikaku, CVL Zuiho, BB Haruna, CA Kumano, DD Akizuki, Type C cargo
 
-#### United States (USN)
-- CV Saratoga
-- CVL Independence
-- BB Massachusetts
-- BB Alabama
-- DD Cassin Young
-- CA Baltimore class
-- CL Cleveland class
-- Submarines
+## In development (not in the current beta)
 
-#### Japan (IJN)
-- CVL Zuiho
-- CV Shokaku
-- CA Kumano
-- BB Nagato
-- CL Nagara
-- CL Isuzu
-- DD Ayanami
-- Submarines
-- Torpedo boat
-- Daihatsu landing class
+### Aircraft
+- **United States:** Curtiss P-40M Warhawk, Vought F4U-1, Lockheed P-38G Lightning II, Grumman TBF-1 Avenger, North American B-25C/D Mitchell, Consolidated PBY-5 Catalina
+- **Japan:** [Nakajima Ki-44 Shoki (Tojo)](docs/JAP/Aircraft/Ki-44_Shoki/info.md), Nakajima B5N2 Kate, Aichi D3A2 Val, Mitsubishi Ki-21-II Sally, Yokosuka D4Y Judy, Kawanishi H8K2 Emily
 
-#### Other
-- GRL ships
+### Naval
+- **United States:** CV Saratoga, BB Massachusetts, BB Alabama, submarines
+- **Japan:** CV Shokaku, BB Nagato, CL Nagara, CL Isuzu, DD Ayanami, submarines, torpedo boat, Daihatsu landing craft
 
-### Ground units
-- General ground units
+### Other
+- GRL ships, general ground units
+
+## For developers
+- [`src/`](src/) — Lua sources of the mod
+- [How to ship a hotfix](docs/HOTFIX.md)
 
 ## License
 
